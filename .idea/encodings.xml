@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.gitignore" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/__init__.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/app/main-1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/main-2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/database.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oauth2.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/post.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routers.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/schemas.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/venv/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/venv/app.py" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/venv/automium_web.wsgi" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/venv/projects/README.md" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/vote.py" charset="US-ASCII" />
+  </component>
+</project>
