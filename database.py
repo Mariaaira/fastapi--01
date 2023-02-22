@@ -11,7 +11,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
 
-SQLALCHEMY_DATABASE_URL = 'mysql+pymysql://root:1234@192.168.1.7:3306/fastapi'
+SQLALCHEMY_DATABASE_URL = 'mysql+pymysql://root:1234@localhost:3306/fastapi'
 
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
